@@ -5,6 +5,16 @@
 		"git": "https://github.com/FRC-Team-955/TeamWebsite3"
 	},
 	"dependencies": {
-		"gulp": "*"
+		"gulp": "*",
+		"gulp-minify-css": "*",
+		"gulp-minify-html": "*",
+		"gulp-uglify": "*",
+		"gulp-sass": "*",
+		"gulp-jade": "*"
+	},
+	"devDependencies": {
+		"gulp-rsync": "*",
+		"gulp-imagemin": "*",
+		"gulp-webserver": "*"
 	}
 }
