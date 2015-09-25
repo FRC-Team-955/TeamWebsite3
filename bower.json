@@ -16,5 +16,10 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "vue": "~0.12.15",
+    "foundation": "~5.5.2",
+    "jquery": "~2.1.4"
+  }
 }
