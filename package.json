@@ -1,20 +1,21 @@
 {
-	"name": "more-955-website",
-	"version": "3.0.0",
-	"repository": {
-		"git": "https://github.com/FRC-Team-955/TeamWebsite3"
-	},
-	"dependencies": {
-		"gulp": "*",
-		"gulp-minify-css": "*",
-		"gulp-minify-html": "*",
-		"gulp-uglify": "*",
-		"gulp-sass": "*",
-		"gulp-jade": "*"
-	},
-	"devDependencies": {
-		"gulp-rsync": "*",
-		"gulp-imagemin": "*",
-		"gulp-webserver": "*"
-	}
+  "name": "more-955-website",
+  "version": "3.0.0",
+  "repository": {
+    "git": "https://github.com/FRC-Team-955/TeamWebsite3"
+  },
+  "dependencies": {
+    "gulp": "*",
+    "gulp-minify-css": "*",
+    "gulp-minify-html": "*",
+    "gulp-uglify": "*",
+    "gulp-sass": "*",
+    "gulp-jade": "*"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-imagemin": "*",
+    "gulp-rsync": "*",
+    "gulp-webserver": "*"
+  }
 }
