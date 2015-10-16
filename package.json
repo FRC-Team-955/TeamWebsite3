@@ -1,0 +1,19 @@
+{
+  "name": "team-website",
+  "version": "0.0.0",
+  "description": "FRC Team 955's website, sans PHP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/FRC-Team-955/TeamWebsite3.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.13.3",
+    "morgan": "^1.6.1"
+  }
+}

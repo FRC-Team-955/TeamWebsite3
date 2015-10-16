@@ -1,0 +1,28 @@
+{
+  "name": "team-website",
+  "version": "0.0.0",
+  "authors": [
+    "matthberg <matthberg@gmail.com>"
+  ],
+  "description": "FRC Team 955's website, sans PHP.",
+  "main": "",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "team955.org",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue": "~0.12.16",
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5"
+  }
+}
